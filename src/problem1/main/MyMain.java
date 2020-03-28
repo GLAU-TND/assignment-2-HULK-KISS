@@ -14,7 +14,7 @@ public class MyMain
         mytree.insert(85);
         mytree.insert(45);
         mytree.insert(13);
-		    mytree.insert(24);
+	mytree.insert(24);
         mytree.insert(16);
         mytree.insert(78);
         mytree.insert(91);
